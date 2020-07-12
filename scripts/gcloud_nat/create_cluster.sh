@@ -2,6 +2,7 @@
 
 # Instruction from here
 # https://cloud.google.com/solutions/creating-kubernetes-engine-private-clusters-with-net-proxies
+# https://medium.com/google-cloud/using-cloud-nat-with-gke-cluster-c82364546d9e
 
 export INSTANCE_NAME=ubuntu
 export REGION=us-central1
