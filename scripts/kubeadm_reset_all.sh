@@ -5,5 +5,5 @@ else
 kubectl drain $1 --delete-local-data --force --ignore-daemonsets
 kubectl delete node $1
 
-kubeadm reset
+#sudo kubeadm reset
 fi
